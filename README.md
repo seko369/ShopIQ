@@ -29,7 +29,6 @@ The UI is styled as a dark, modern SaaS-style dashboard (navy background, teal-t
 ## 🖼️ Screenshots
 
 <!-- Add your screenshots below. Recommended: PNG, ~1400px wide -->
-
 <p align="center">
   <img src="./assets/screenshot-1.png" alt="Dashboard overview" width="800"/>
 </p>
@@ -37,11 +36,6 @@ The UI is styled as a dark, modern SaaS-style dashboard (navy background, teal-t
 <p align="center">
   <img src="./assets/screenshot-2.png" alt="Model results and confusion matrix" width="800"/>
 </p>
-
-<p align="center">
-  <img src="./assets/screenshot-3.png" alt="Behavioral analytics charts" width="800"/>
-</p>
-
 ---
 
 ## ✨ Features
